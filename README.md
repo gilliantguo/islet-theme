@@ -1,4 +1,5 @@
-# islet-theme<span>
+# islet-theme
+<span>
     <img src="https://img.shields.io/github/license/HelipengTony/tony.svg" alt="license">
 </span>
 a WP theme edited from barley
