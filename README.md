@@ -4,4 +4,4 @@
 </span>
 <p>a WP theme edited from barley</p>
 
-<h2>now it was devloping...please wait...</h2>
+<h2>now it was devloping...please waiting...</h2>
