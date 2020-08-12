@@ -5,3 +5,6 @@
 <p>a WP theme edited from barley</p>
 
 <h2>now it was devloping...please waiting...</h2>
+
+oh...maybe it was lost
+pity///
